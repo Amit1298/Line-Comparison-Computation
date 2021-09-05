@@ -1,0 +1,14 @@
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.exe
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.deps.json
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.runtimeconfig.json
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.runtimeconfig.dev.json
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.dll
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\bin\Debug\netcoreapp3.1\LineComparisonComputation.pdb
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.csproj.AssemblyReference.cache
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.GeneratedMSBuildEditorConfig.editorconfig
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.AssemblyInfoInputs.cache
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.AssemblyInfo.cs
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.csproj.CoreCompileInputs.cache
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.dll
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.pdb
+L:\BridgeLabz Solution\Dot net\September\01-09-2021\Line_Comparison_Problem\LineComparisonComputation\LineComparisonComputation\obj\Debug\netcoreapp3.1\LineComparisonComputation.genruntimeconfig.cache
